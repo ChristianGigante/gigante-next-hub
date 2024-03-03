@@ -2,7 +2,7 @@
 
 ## References
 You can access this app here: 
-
+https://gigante-next-hub.vercel.app/
 
 ## Local setup
   # env
